@@ -1,8 +1,9 @@
 This is the synchronous way to execute Http requests
-Mon, 03 Sep 2018 02:58:35 GMT
-Mon, 03 Sep 2018 02:58:36 GMT
-Mon, 03 Sep 2018 02:58:36 GMT
+Mon, 03 Sep 2018 04:01:20 GMT
+Mon, 03 Sep 2018 04:01:21 GMT
+Mon, 03 Sep 2018 04:01:22 GMT
 This is the asynchronous way to execute Http requests
-Mon, 03 Sep 2018 02:58:44 GMT
-Mon, 03 Sep 2018 02:58:45 GMT
-Mon, 03 Sep 2018 02:58:46 GMT
+Mon, 03 Sep 2018 04:01:10 GMT
+Mon, 03 Sep 2018 04:01:10 GMT
+Mon, 03 Sep 2018 04:01:11 GMT
+

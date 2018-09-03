@@ -13,7 +13,7 @@ fopen.close()
 # Definition of coroutine 
 async def myCoroutine(URL):
     fopen1 = open("output.txt","a")
-    await asyncio.sleep(5)
+    await asyncio.sleep(3)
     r=requests.get(URL)
     # Getting header information
     data = r.headers['Date']
